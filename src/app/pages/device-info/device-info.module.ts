@@ -4,17 +4,17 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { FolderPageRoutingModule } from './folder-routing.module';
+import { DeviceInfoPageRoutingModule } from './device-info-routing.module';
 
-import { FolderPage } from './folder.page';
+import { DeviceInfoPage } from './device-info.page';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    FolderPageRoutingModule
+    DeviceInfoPageRoutingModule
   ],
-  declarations: [FolderPage]
+  declarations: [DeviceInfoPage]
 })
-export class FolderPageModule {}
+export class DeviceInfoPageModule {}

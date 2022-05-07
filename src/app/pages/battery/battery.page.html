@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Battery Charge</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item>
+      <h4>Battery Percentage {{level}}%</h4>
+    </ion-item>
+    <ion-item>
+      <h4 *ngIf="isPlugged==true">Battery Status: Plugged</h4>
+      <h4 *ngIf="isPlugged!=true">Battery Status: Unplugged</h4>
+    </ion-item>
+    <ion-item>
+      <h4 *ngIf="flash==true">Flashlight Status: On</h4>
+      <h4 *ngIf="flash!=true">Flashlight Status: Off</h4>
+    </ion-item>
+  </ion-list>
+</ion-content>

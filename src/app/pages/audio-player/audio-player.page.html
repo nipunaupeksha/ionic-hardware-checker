@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Audio Player</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item>
+      <ion-label>Volume</ion-label>
+      <ion-range min="0" max="100" step="10" [(ngModel)]="rangeVal" (onChange)="setVolume()">
+        <ion-icon size="small" slot="start" name="volume-mute-outline"></ion-icon>
+        <ion-icon size="small" slot="end" name="volume-high-outline"></ion-icon>
+      </ion-range>
+      <ion-label>Volume: <span>{{rangeVal}}</span></ion-label>
+    </ion-item>
+    <ion-item *ngFor="let track of playlist" (click)="start(track)">
+      <ion-label>{{track.name}}</ion-label>
+      <ion-button *ngIf="track.isPlaying==true" fill="clear" (click)="play(track)">
+        <ion-icon name="play-outline" color="#fff"></ion-icon>
+      </ion-button>
+      <ion-button *ngIf="track.isPlaying==false" fill="clear" (click)="pause(track)">
+        <ion-icon name="pause-outline" color="#fff"></ion-icon>
+      </ion-button>
+    </ion-item>
+  </ion-list>
+</ion-content>

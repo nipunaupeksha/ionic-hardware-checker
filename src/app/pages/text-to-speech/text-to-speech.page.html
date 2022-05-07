@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Text to Speech</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item>
+      <ion-label position="floating">Text</ion-label>
+      <ion-input [(ngModel)]="text" type="text"></ion-input>
+    </ion-item>
+  </ion-list>
+  <ion-button color="warning"  size="full" (click)="convertTextToSpeech(text)">
+    Speak
+</ion-button>
+</ion-content>

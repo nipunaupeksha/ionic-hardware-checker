@@ -1,1 +1,81 @@
-<svg width="350" height="140" xmlns="http://www.w3.org/2000/svg" style="background:#f6f7f9"><g fill="none" fill-rule="evenodd"><path fill="#F04141" style="mix-blend-mode:multiply" d="M61.905-34.23l96.194 54.51-66.982 54.512L22 34.887z"/><circle fill="#10DC60" style="mix-blend-mode:multiply" cx="155.5" cy="135.5" r="57.5"/><path fill="#3880FF" style="mix-blend-mode:multiply" d="M208.538 9.513l84.417 15.392L223.93 93.93z"/><path fill="#FFCE00" style="mix-blend-mode:multiply" d="M268.625 106.557l46.332-26.75 46.332 26.75v53.5l-46.332 26.75-46.332-26.75z"/><circle fill="#7044FF" style="mix-blend-mode:multiply" cx="299.5" cy="9.5" r="38.5"/><rect fill="#11D3EA" style="mix-blend-mode:multiply" transform="rotate(-60 148.47 37.886)" x="143.372" y="-7.056" width="10.196" height="89.884" rx="5.098"/><path d="M-25.389 74.253l84.86 8.107c5.498.525 9.53 5.407 9.004 10.905a10 10 0 0 1-.057.477l-12.36 85.671a10.002 10.002 0 0 1-11.634 8.42l-86.351-15.226c-5.44-.959-9.07-6.145-8.112-11.584l13.851-78.551a10 10 0 0 1 10.799-8.219z" fill="#7044FF" style="mix-blend-mode:multiply"/><circle fill="#0CD1E8" style="mix-blend-mode:multiply" cx="273.5" cy="106.5" r="20.5"/></g></svg>
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 466.73 510.01" version="1.1">
+  <g id="layer1" transform="translate(-326.22 -144.33)">
+    <g id="g4465" transform="matrix(.66309 0 0 .66309 316.41 77.043)">
+      <path id="rect2846" d="m149.87 122.04c-9.1931 2.8305-14.311 12.501-11.48 21.694 23.956 26.207 34.649 54.749 26.658 86.582 2.8305 9.1931 12.501 14.311 21.694 11.48 9.1931-2.8305 14.326-12.506 11.496-21.699 7.9627-34.048-13.017-59.186-26.658-86.582-2.8305-9.1931-12.517-14.306-21.71-11.475z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#fff"/>
+      <path id="rect3721-1" d="m295.42 600.51-24.688 17.702c100.66 92.096 99.781 132.62-52.975 95.993l-1.6018 30.335c140.77 22.859 263.82 34.633 79.265-144.03z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#fff"/>
+      <path id="rect3721" d="m472.05 566.22-27.512 12.897c75.446 124.59 105.61 92.657-41.416 240.83l21.31 21.64c149.14-137.67 149.65-135.73 47.62-275.37z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#fff"/>
+      <path id="path2816" d="m490.45 403.28c69.451 146.19 20.31 238.55-231.76 235.53-82.962-0.99384-61.147-134.63-61.147-235.53s-128.99-181.23 56.618-187.22c255.02-8.2235 163.81 68.203 236.28 187.22z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#fff"/>
+      <path id="path2822-7" d="m-1428.6 288.08c0 52.862-24.944 95.714-55.714 95.714s-55.714-42.853-55.714-95.714c0-52.862 24.944-95.714 55.714-95.714s55.714 42.853 55.714 95.714z" fill-rule="evenodd" transform="matrix(.52035 -.092051 .092051 .52035 1079.3 -112.74)" stroke="#010002" stroke-linecap="round" stroke-width="13.661" fill="#fff"/>
+      <path id="path2822" d="m-1428.6 288.08c0 52.862-24.944 95.714-55.714 95.714s-55.714-42.853-55.714-95.714c0-52.862 24.944-95.714 55.714-95.714s55.714 42.853 55.714 95.714z" fill-rule="evenodd" transform="matrix(.52035 -.092051 .092051 .52035 998.49 -111.98)" stroke="#010002" stroke-linecap="round" stroke-width="13.661" fill="#fff"/>
+      <path id="rect3721-4" d="m496.99 502.57c58.347-12.067 102.05-47.245 115.21-107.6 12.721 1.0615 35.088-6.7056 57.78-21.037 30.668-19.369 50.304-43.373 43.847-53.596-6.4563-10.223-36.549-2.7874-67.216 16.582-5.1539 3.2551-9.9915 6.6257-14.45 10.054-1.0455-13.74-7.6025-24.397-16.815-25.612-1.5823-0.20867-3.1597-0.12933-4.7126 0.21449-1.9966 0.44206-3.9431 1.318-5.807 2.5658-7.2897 4.8804-13.202 15.499-14.899 28.374-0.98031 7.4338-0.4051 14.501 1.3658 20.419-22.645 49.248-58.4 88.437-115.04 107.45" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3965-3-1-9" ry="18.118" fill-rule="evenodd" transform="rotate(-14.69)" height="36.235" width="61.922" stroke="#010002" stroke-linecap="round" y="607.86" x="99.687" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3965-4-47" ry="18.118" fill-rule="evenodd" transform="rotate(-2.4838)" height="36.235" width="61.922" stroke="#010002" stroke-linecap="round" y="509.15" x="310.14" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3965" ry="18.118" fill-rule="evenodd" transform="rotate(9.9757)" height="36.235" width="61.922" stroke="#010002" stroke-linecap="round" y="382.46" x="315.97" stroke-width="7.219" fill="#fff"/>
+      <path id="path2819" d="m441.65 351.95c1.5098 50.795-29.768 55.762-85.062 57.373-103.63 3.0196-135.63-26.137-145.45-58.883-39.255-130.82 81.078-102.67 136.4-102.67 55.317 0 66.944 26.205 94.121 104.18z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#f2f2f2"/>
+      <path id="path2816-2" d="m157.33 257.87c-0.0495 26.373 15.135 49.254 24.592 73.04 12.695 28.327 21.369 59.151 18.846 90.492-0.54636 55.031-7.4088 111.04 3.7812 165.34 4.6824 20.835 14.386 39.151 35.978 46.496 19.146 6.3676 39.938 2.547 59.843 3.0248 54.866-2.1183 113.8-11.288 163.02-36.94-1.5406-4.999 0.74815-1.1126-1.9509-0.004-45.49 19.854-105.24 27.82-154.32 30.072-70.986 2.9204-83.529-92.291-80.699-109.87 11.221-87.917-17.884-185.43-68.592-259.41-0.25377-0.69714-0.42708-1.8129-0.5-2.25v-0.00046z" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" fill="#666" fill-rule="evenodd"/>
+      <path id="path2849" d="m344.83 368.32c-30.727 2.7802-67.597-9.8561-67.184-5.2886 0.41328 4.5675 37.954 24.614 68.681 21.834 30.727-2.7802 55.038-28.423 54.624-32.99-0.41328-4.5675-25.395 13.665-56.121 16.445z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219"/>
+      <path id="path2852" d="m-1320 345.4c0 22.979-11.513 41.607-25.714 41.607-14.202 0-25.714-18.628-25.714-41.607s11.513-41.607 25.714-41.607c14.202 0 25.714 18.628 25.714 41.607z" fill-rule="evenodd" transform="matrix(.51503 -.11826 .11826 .51503 913.2 -150.31)" stroke="#010002" stroke-linecap="round" stroke-width="13.661"/>
+      <path id="path2852-6" d="m-1320 345.4c0 22.979-11.513 41.607-25.714 41.607-14.202 0-25.714-18.628-25.714-41.607s11.513-41.607 25.714-41.607c14.202 0 25.714 18.628 25.714 41.607z" fill-rule="evenodd" transform="matrix(.51503 -.11826 .11826 .51503 990.2 -146.63)" stroke="#010002" stroke-linecap="round" stroke-width="13.661"/>
+      <path id="path2876" d="m147.72 217.57c-22.514 0-40.755 18.258-40.755 40.772s18.242 40.755 40.755 40.755c22.514 0 22.654-15.222 22.654-37.736s-0.14041-43.792-22.654-43.792z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3675-8" ry="9.8138" fill-rule="evenodd" transform="rotate(-19.647)" height="19.628" width="39.255" stroke="#010002" stroke-linecap="round" y="365.63" x="358.03" stroke-width="7.219"/>
+      <path id="path2876-7" d="m417 212.96c19.162-11.82 44.273-5.8572 56.092 13.304 11.82 19.162 5.8712 44.264-13.29 56.084-19.162 11.82-27.273-1.062-39.092-20.223-11.82-19.162-22.871-37.345-3.7096-49.164z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3965-4" fill-rule="evenodd" ry="18.118" height="36.235" width="61.922" stroke="#010002" stroke-linecap="round" y="441.03" x="326.63" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3675" fill-rule="evenodd" ry="9.8138" height="19.628" width="39.255" stroke="#010002" stroke-linecap="round" y="249.28" x="90.353" stroke-width="7.219"/>
+      <rect id="rect3675-8-5" fill-rule="evenodd" ry="9.8138" height="19.628" width="39.255" stroke="#010002" stroke-linecap="round" y="536.9" x="179.43" stroke-width="7.219"/>
+      <path id="path3754-8" d="m254.98 742.26c-15.748-35.888-22.693-35.24-34.146-30.214-11.454 5.0258-26.859 10.205 2.2354 76.509 36.375 82.894 49.865 30.492 42.712 20.232-48.526-69.6 4.9472-30.639-10.8-66.526z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#fff"/>
+      <path id="rect3721-4-8" d="m250.76 486.63c-40.612-25.536-76.84-59.841-105.09-110.1 4.2107-7.5706 4.8705-19.408 0.95779-31.475-4.0054-12.353-11.746-21.723-19.8-25.2-2.2881-0.98775-4.6088-1.4969-6.8696-1.4697-1.3565 0.0163-2.695 0.22209-3.9963 0.64402-8.8396 2.8662-13.338 14.536-11.873 28.238-5.0069-2.5629-10.376-4.9999-16.035-7.266-33.673-13.484-64.615-15.336-69.109-4.1119-4.4946 11.224 19.17 31.268 52.843 44.752 17.533 7.0208 34.31 10.875 47.014 11.378 20.986 49.077 53.787 89.884 109.29 114.8" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#fff"/>
+      <path id="path3894" d="m238.07 106.67c-14.504 5.591-22.114 33.858-21.609 37.593 0.5052 3.7351 7.108-23.098 21.612-28.689s33.069 3.6345 32.564-0.10063c-0.50519-3.7351-18.063-14.394-32.567-8.8031z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219"/>
+      <path id="path3894-3" d="m339.36 106.3c14.975 4.1704 25.267 31.574 25.123 35.341-0.14369 3.7664-9.2961-22.307-24.271-26.478-14.975-4.1704-32.566 6.7974-32.422 3.031 0.14369-3.7664 16.595-16.064 31.57-11.894z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219"/>
+      <path id="path3754-8-4" d="m433.5 818.15c-39.174-1.1597-41.566 5.3926-41.936 17.895-0.37015 12.502-2.2964 28.64 70.078 30.783 90.484 2.6787 48.926-31.976 36.59-29.913-83.684 13.999-25.559-17.606-64.732-18.765z" fill-rule="evenodd" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3965-4-4" ry="18.118" fill-rule="evenodd" transform="rotate(-14.357)" height="36.235" width="61.922" stroke="#010002" stroke-linecap="round" y="524.18" x="272.6" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3965-4-47-6" ry="18.118" fill-rule="evenodd" transform="rotate(-4.3717)" height="36.235" width="61.922" stroke="#010002" stroke-linecap="round" y="574.76" x="294.46" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3965-3" ry="18.118" fill-rule="evenodd" transform="rotate(-.98662)" height="36.235" width="61.922" stroke="#010002" stroke-linecap="round" y="504.61" x="237.65" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3965-3-1" ry="18.118" fill-rule="evenodd" transform="rotate(-14.69)" height="36.235" width="61.922" stroke="#010002" stroke-linecap="round" y="586.34" x="267.65" stroke-width="7.219" fill="#fff"/>
+      <rect id="rect3965-3-1-7" ry="18.118" fill-rule="evenodd" transform="matrix(.99614 -.087757 -.087757 -.99614 0 0)" height="36.235" width="61.922" stroke="#010002" stroke-linecap="round" y="-617.09" x="366.18" stroke-width="7.219" fill="#fff"/>
+      <path id="path2901" d="m92.273 255.06c23.347 135.39 248.33 240.7 248.33 240.7 12.752 12.21-91.431 96.561-164.74 97.096-30.283-6.815 8.7984-53.844 2.2766-44.621 3.1036 0.49109-39.672 47.303 1.4912 41.356 58.611-7.1799 132.97-36.087 161.09-93.859 114.43 43.343 218.64-254.18 158.39-277.07" stroke="#000" stroke-width="7.219" fill="none"/>
+      <path id="path4136" d="m222.67 703.91c-13.411 3.0733-30.712 11.334-24.566 38.155" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="none"/>
+      <path id="path4136-6" d="m382.09 832.71c-0.81503 13.734 2.2561 32.659 29.725 34.289" stroke="#010002" stroke-linecap="round" stroke-width="7.219" fill="none"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>MobilePhone</dc:title>
+        <dc:date>2010-09-12T12:38:02</dc:date>
+        <dc:description>Happy cartoon mobile phone running.</dc:description>
+        <dc:source>http://openclipart.org/detail/84577/mobilephone-by-tombrough</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>TomBrough</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>happy</rdf:li>
+            <rdf:li>mobile</rdf:li>
+            <rdf:li>mobile phone</rdf:li>
+            <rdf:li>phone</rdf:li>
+            <rdf:li>running</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
