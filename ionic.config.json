@@ -1,0 +1,7 @@
+{
+  "name": "deviceapplication",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
